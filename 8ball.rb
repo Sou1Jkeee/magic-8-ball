@@ -7,28 +7,28 @@ greeting = [
 ]
 
 answers = [
-  # Положительные
+  # Positive
   "It is certain",
   "It is decidedly so",
   "Without a doubt",
   "Yes — definitely",
   "You may rely on it",
 
-  # Нерешительно положительные
+  # Indecisively positive
   "As I see it, yes",
   "Most likely",
   "Outlook good",
   "Signs point to yes",
   "Yes",
 
-  # Нейтральные
+  # Neutral
   "Reply hazy, try again",
   "Ask again later",
   "Better not tell you now",
   "Cannot predict now",
   "Concentrate and ask again",
 
-  # Отрицательные
+  # Negative
   "Don’t count on i",
   "My reply is no",
   "My sources say no",
